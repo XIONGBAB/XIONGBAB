@@ -1,4 +1,7 @@
 <div align="center"><img src="https://img.shields.io/badge/Author-XIONGBAB-informational?style=for-the-badge&logo=github&" alt="XIONGBAB"></div>
+<br />
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=016EA9&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=Like+a+person+is+a+lifetime+thing" alt="Typing SVG" /></a></div>
+
 <br /><hr>
 <!-- page -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
@@ -11,7 +14,7 @@
 - 🐋: Maybe you've forgotten about me, haven't you?
 <br /><br />
 <!-- Tag -->
-<img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>
+<img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>&nbsp;&nbsp;<img src="https://visitor-badge.glitch.me/badge?page_id=xiongbab&left_color=green&right_color=blue">
 <hr />
 <a href="https://github.com/XIONGBAB/XIONGBAB.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbab" alt=""></a>
 

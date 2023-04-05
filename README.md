@@ -1,8 +1,12 @@
 <div align="center"><img src="https://img.shields.io/badge/Author-XIONGBAB-informational?style=for-the-badge&logo=github&" alt="XIONGBAB"></div>
 <br />
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=016EA9&center=%E7%9C%9F%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=Like+a+person+is+a+lifetime+thing" alt="Typing SVG" /></a></div>
 
-<br /><hr>
+<div align="center">
+   <a href="javascript:;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=Like a person is a lifetime thing!;喜欢一个人,是一辈子的事!&center=true&size=27&color=106EA9" alt="XIONGBAB" />
+   </a>
+</div>
+<hr />
 <!-- page -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
 

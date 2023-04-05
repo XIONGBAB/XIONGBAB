@@ -1,20 +1,31 @@
 <div align="center"><img src="https://img.shields.io/badge/Author-XIONGBAB-informational?style=for-the-badge&logo=github&" alt="XIONGBAB"></div>
-<br />
+<br /><hr>
 <!-- page -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
 
 ### Hello，word 👋
 
-- :orange_book: Focusing on Swift & iOS<br />
-- :hammer: Creator of applications and frameworks<br />
-- :ram: Founder the ObjCCN<br />
-- :meat_on_bone: Meat lover<br />
+- 🐹: She still exists in my mind!<br />
+- 🐨: The early birds catch the worm!<br />
+- 🐏: If I'm gone one day, will you still remember me!<br />
+- 🐋: Maybe you've forgotten about me, haven't you?
 <br /><br />
-<!-- page -->
-
 <!-- Tag -->
-<img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em><br /><br />
+<img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>
+<hr />
+<a href="https://github.com/XIONGBAB/XIONGBAB.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbab" alt=""></a>
 
+### Hi,word 🎁
+
+* 🐹: <br />
+* 🐨: <br />
+* 🐏: <br />
+* 📛: <br />
+* 🍭: <br />
+* 🚍: <br />
+* 🏡: <br />
+* 🔸: <br />
+<br /><br />
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- information -->

@@ -20,47 +20,10 @@
 <!-- Tag -->
 <img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>&nbsp;&nbsp;<img src="https://visitor-badge.glitch.me/badge?page_id=xiongbab&left_color=green&right_color=blue">
 <hr />
-<a href="https://github.com/XIONGBAB/XIONGBAB.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbab" alt=""></a>
+<!-- is hrer -->
 
-### Hi,word 🎁
+<!-- is hrer -->
 
-* 🐹: <br />
-* 🐨: <br />
-* 🐏: <br />
-* 📛: <br />
-* 🍭: <br />
-* 🚍: <br />
-* 🏡: <br />
-* 🔸: <br />
-<br /><br />
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<!-- information -->
-
-### ⚡ My information
-
-<!-- About Me start -->
-<table>
-<tr><td width="1200">
-   
-<img src="https://img.shields.io/static/v1?label=Name....&message=:&color=yellow&style=?style=flat-square&logo=Aiqfome&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=XIONGBAB&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=XIONGMAM&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=From.....&message=:&color=yellow&style=?style=flat-square&logo=AnyDesk&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=China&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=FuJian&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=Email.....&message=:&color=yellow&style=?style=flat-square&logo=MicrosoftAcademic&logoColor=yellow">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=2770949518@qq.com&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=w2770949518@163.com&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=WeChat..&message=:&color=yellow&style=?style=flat-square&logo=WeChat&logoColor=green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Mr_XIONGBAB&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=Company&message=:&color=yellow&style=?style=flat-square&logo=AIOHTTP&logoColor=lightgrey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=XINGHUAYUANYOUXIANGONGSI&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=Birthday.&message=:&color=yellow&style=?style=flat-square&logo=Adafruit&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=1995-11-06&color=blue&style=?style=flat-square">
-<br />
-<img src="https://img.shields.io/static/v1?label=Hobbies..&message=:&color=yellow&style=?style=flat-square&logo=ArtStation&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Computer Games&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Listen to music&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Singing&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Photography&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Programming&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Code&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Creeping mountain&color=blue&style=?style=flat-square">
-<br />
-<br />
-</td></tr>
-</table>
-<!-- About Me end -->
 
 ### 📚 Studying And Planned Learning Content
 

@@ -114,13 +114,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,jquery,vue,py,nodejs,androidstudio,webpack,visualstudio,github" /><br>
 <img src="https://skillicons.dev/icons?i=ae,ps,pr,au,ai,git,discord,twitter,vscode,md" /><br>
 <br>
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-<img height="65" width="65" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+
 </div>
    </td></tr>
 </table>

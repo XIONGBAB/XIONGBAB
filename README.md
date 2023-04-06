@@ -38,7 +38,9 @@
 
 <a href="https://github.com/XIONGBAB/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiongbab&theme=react&radius=6"></a>
 
-<img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><img align="center" width="200px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/>
+<img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><img align="center" width="200px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/><br /><hr />
+
+<img src="https://raw.githubusercontent.com/XIONGBAB/XIONGBAB/main/assets/github-contribution-grid-snake.svg">
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />

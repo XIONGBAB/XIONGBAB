@@ -10,7 +10,7 @@
 <!-- page -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
 
-### Hello，word 👋
+### 😄 Hello，word 
 
 - 🐹: She still exists in my mind!<br />
 - 🐨: The early birds catch the worm!<br />
@@ -23,17 +23,24 @@
 <!-- is hrer -->
 <a href="https://github.com/XIONGBAB/XIONGBAB.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbab" alt=""></a>
 
-### Hi,word 🎁
+### 🎁 Classic Quotes 
 
-* 🐹: <br />
-* 🐨: <br />
-* 🐏: <br />
-* 📛: <br />
-* 🍭: <br />
-* 🚍: <br />
-* 🏡: <br />
-* 🔸: <br />
+* 🐹: &nbsp;&nbsp;月亮很亮，亮也没用，没用也亮！我喜欢你，喜欢也没用，没用也喜欢！<br />
+* 🐨: &nbsp;&nbsp;满月居于夜空：你静静地居住在我的心里，如满月居于空！<br />
+* 🐏: &nbsp;&nbsp;现在，天色暗了，我也倦了！<br />
+* 📛: &nbsp;&nbsp;孤独 养分 风与黄昏 水与篝火 我都不缺！<br />
+* 🍭: &nbsp;&nbsp;有时候，天气就像人的心情，有时晴朗，有时阴沉，有时多雨，有时霜冻！<br />
+* 🚍: &nbsp;&nbsp;等不到的永远觉得珍贵，得到了之后却不珍惜！<br />
+* 🏡: &nbsp;&nbsp;当你疲惫的时候，孤单的时候，倔强的时候，难过的时候，别放弃！<br />
+* 🔸: &nbsp;&nbsp;心已安，勿挂念！<br />
 <br /><br />
+<hr />
+
+<a href="https://github.com/XIONGBAB/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiongbab&theme=react&radius=6"></a>
+
+<img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><img align="center" width="200px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/>
+
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- information -->
@@ -56,7 +63,7 @@
 <br />
 <img src="https://img.shields.io/static/v1?label=Birthday.&message=:&color=yellow&style=?style=flat-square&logo=Adafruit&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=1995-11-06&color=blue&style=?style=flat-square">
 <br />
-<img src="https://img.shields.io/static/v1?label=Hobbies..&message=:&color=yellow&style=?style=flat-square&logo=ArtStation&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Computer Games&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Listen to music&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Singing&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Photography&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Programming&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Code&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Creeping mountain&color=blue&style=?style=flat-square">
+<img src="https://img.shields.io/static/v1?label=Hobbies..&message=:&color=yellow&style=?style=flat-square&logo=ArtStation&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Games&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Listen to music&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Singing&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Photography&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Programming&color=blue&style=?style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/static/v1?label=@&message=Creeping mountain&color=blue&style=?style=flat-square">
 <br />
 <br />
 </td></tr>

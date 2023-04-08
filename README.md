@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=Like a person is a lifetime thing!;喜欢一个人,是一辈子的事!&center=true&size=27&color=106EA9" alt="XIONGBAB" />
    </a>
 </div>
+
+<div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/xiongbab/xiongbab/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
+
 <hr />
 <!-- page -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiongbab&show_icons=true&icon_color=orange&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&theme=cobalt" />
@@ -19,6 +23,10 @@
 <br /><br />
 <!-- Tag -->
 <img src="https://img.shields.io/static/v1?label=Information&message=:&color=blue&logo=CBS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/top/xiongbab/XIONGBAB.github.io?color=blueviolet&logo=JavaScript"></em>&nbsp;&nbsp;<em><img style="display:inline-block" src="https://img.shields.io/github/followers/xiongbab?color=success&label=Followers&logo=Snapcraft&logoColor=white&style=flat-square"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/languages/count/xiongbab/xiongbab.github.io?color=success&label=Language&logo=Wolfram%20Language&logoColor=white"></em>&nbsp;&nbsp;<em><img src="https://img.shields.io/github/downloads/XIONGBAB/ASUS_FX505_EFI/total?style=flat-square"></em>&nbsp;&nbsp;<img src="https://visitor-badge.glitch.me/badge?page_id=xiongbab&left_color=green&right_color=blue">
+
+
+
+
 <hr />
 <!-- is hrer -->
 <a href="https://github.com/XIONGBAB/XIONGBAB.github.io"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiongbab" alt=""></a>
@@ -38,10 +46,7 @@
 
 <a href="https://github.com/XIONGBAB/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiongbab&theme=react&radius=6"></a>
 
-<img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><img align="center" width="200px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/><br /><hr />
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/xiongbab/xiongbab/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>
-
+<img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><br />
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 

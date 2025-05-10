@@ -1,11 +1,13 @@
 <div align="center"><img src="https://img.shields.io/badge/Author-XIONGBAB-informational?style=for-the-badge&logo=github&" alt="XIONGBAB"></div>
 <br />
 
+<!--
 <div align="center">
    <a href="javascript:;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1200&lines=Like a person is a lifetime thing!;喜欢一个人,是一辈子的事!&center=true&size=27&color=106EA9" alt="XIONGBAB" />
    </a>
 </div>
+-->
 
 <div align="center"><img  width="100px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/xiongbab/xiongbab/profile-snake-contrib/github-contribution-grid-snake.svg" /></div>

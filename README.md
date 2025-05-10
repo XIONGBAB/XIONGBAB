@@ -46,7 +46,7 @@
 <br /><br />
 <hr />
 
-<a href="https://github.com/XIONGBAB/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiongbab&theme=react&radius=6"></a>
+<!-- <a href="https://github.com/XIONGBAB/ASUS_FX505_EFI"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xiongbab&theme=react&radius=6"></a>-->
 
 <img align="left" src="https://stats.justsong.cn/api/github?username=xiongbab&theme=light"><img align="right" src="https://stats.justsong.cn/api/bilibili/?id=325968293"><br />
 
